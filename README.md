@@ -1,5 +1,12 @@
-### Hi there 👋
+### 👋 Hi there, i'm @PedramTaher
 
+👀 I’m a visual person, so i'm interested in any Front-end or graphical thing.
+🔭 I’m currently working on my abilities to do much more things with VueJs and Creating some websites with #VueJs
+🌱 I’m currently learning VueJs in professional Way...
+<!-- 💞️ I’m looking to collaborate on Challengable Project -->
+📫 How to reach me: taher.pedram@gmail.com
+🤔 you can find me here in much more ways: https://info.pedramtaher.com
+😄 Pronouns: pedyley
 <!--
 **pedramtaher/pedramtaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
